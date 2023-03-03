@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Kpoti",
+      "lastName": "Joel",
+      "email": "kpoti@gmail.com",
+      "dob": "1997-10-05T00:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "BACO",
+      "experience": 4,
+      "package": 255000,
+      "id": 1
+    },
+    {
+      "firstName": "Desire",
+      "lastName": "Pitalounani",
+      "email": "desiree@gmail.com",
+      "dob": "2022-06-13T00:00:00.000Z",
+      "gender": "others",
+      "education": "Matric",
+      "company": "TOM",
+      "experience": 6,
+      "package": 300000,
+      "id": 3
+    }
+  ]
+}
